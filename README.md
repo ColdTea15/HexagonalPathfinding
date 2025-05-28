@@ -36,7 +36,7 @@ pip install matplotlib numpy
 1. Run the Python script to visualize the map and paths:
 
 ```bash
-python hex_pathfinding.py
+A_Star_Virtual_World.py
 ```
 
 2. The program will print the individual paths to each treasure and the complete combined path.
